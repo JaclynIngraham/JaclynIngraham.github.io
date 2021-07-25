@@ -3,7 +3,7 @@ layout : default
 ---
 
 
-- [Projects](https://github.com/JaclynIngraham/JaclynIngraham.github.io/blob/main/pageinfo/index.md)
+- [Projects](/pageinfo/index.md)
 
 
 
