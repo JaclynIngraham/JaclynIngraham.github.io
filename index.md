@@ -6,7 +6,7 @@ layout : default
 - [Projects](/pageinfo/index.md)
 
 
-
+- ![Photo](/pictures/pic.jpg)
 
 
 
