@@ -1,1 +1,3 @@
-# JaclynIngraham.github.io
+# Jaclyn Ingraham
+
+This is my GitHub website.
