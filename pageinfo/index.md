@@ -10,4 +10,6 @@ Here are two notebooks.
 
 
 
+[School Project Repository](https://github.com/JaclynIngraham/School-Projects)
+
 [Back to Homepage](/JaclynIngraham.github.io/index.md)
