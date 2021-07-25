@@ -16,3 +16,13 @@ I am a first year student in the MSBA program in the Mason School of Business at
 [School Projects](/pageinfo/index.md)
 
 
+
+
+
+
+
+
+
+
+
+![WM logo](/pictures/wm.png)    ![MSU logo](/pictures/msu.jpg)
