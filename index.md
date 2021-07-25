@@ -25,6 +25,6 @@ I am a first year student in the MSBA program in the Mason School of Business at
 
 
 
-![WM logo](/pictures/wm.png)   
+![WM logo](/pictures/wm.png)(https://www.wm.edu/)   
 
-![MSU logo](/pictures/msu.jpg)
+![MSU logo](/pictures/msu.jpg)(https://msu.edu/)
