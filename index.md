@@ -3,6 +3,12 @@ layout : default
 ---
 
 
+- [Projects](JaclynIngraham.github.io/pageinfo/index.md)
+
+
+
+
+
 
 ## Welcome to GitHub Pages
 
