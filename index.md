@@ -3,10 +3,10 @@ layout : default
 ---
 
 
-- [Projects](/pageinfo/index.md)
-
-
 ![Photo](/pictures/pic.jpg)
+
+
+- [Projects](/pageinfo/index.md)
 
 
 
